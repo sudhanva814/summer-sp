@@ -1,0 +1,29 @@
+body{
+  background-image:linear-gradient(to right,cornflowerblue,beige);
+}
+
+.navbar{
+border-radius: 3px;
+box-shadow: 6px 6px 9px rgb(42 25 79 / 65%);
+}
+
+img{
+  border-radius: 5px;
+  box-shadow: 2px 0px 4px rgb(0 0 0/50);
+}
+
+.container{
+  padding: 0;
+}
+.container div h1{
+  color:peru;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.blog-footer{
+padding: 2.5rem 0;
+color: rgb(236, 228, 228);
+text-align: center;
+background-color: #c9c5c5;
+border-top: .05rem solid #e5e5e5;
+}
